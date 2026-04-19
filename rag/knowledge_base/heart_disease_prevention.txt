@@ -1,0 +1,89 @@
+HEART DISEASE PREVENTION GUIDELINES
+
+Primary Prevention Strategies:
+1. Blood Pressure Management
+   - Target: <130/80 mmHg for most adults
+   - Lifestyle: DASH diet, sodium restriction (<2,300mg/day)
+   - Exercise: 150 minutes/week moderate intensity
+   - Limit alcohol: <2 drinks/day men, <1 drink/day women
+   - Weight loss: 5-10% reduction reduces systolic BP by 5-20 mmHg
+
+2. Cholesterol Management
+   - LDL cholesterol target: <100 mg/dL (high risk <70 mg/dL)
+   - Saturated fat: <7% of total daily calories
+   - Trans fats: Avoid completely
+   - Soluble fiber: 10-25g daily (oats, beans, apples)
+   - Plant sterols: 2g daily for cholesterol reduction
+
+3. Dietary Patterns
+   - Mediterranean diet: 30% reduction in cardiovascular events
+   - Portfolio diet: 30% LDL reduction with plant sterols, nuts, fiber
+   - Limit processed meats: Associated with 42% higher heart disease risk
+   - Omega-3 fatty acids: 2 servings fatty fish weekly
+
+4. Physical Activity
+   - Aerobic: 150 minutes/week moderate or 75 minutes/week vigorous
+   - Strength training: 2 sessions/week
+   - Activity reduces heart disease risk by 30-35%
+   - Exercise improves HDL, lowers BP, reduces inflammation
+
+5. Weight Management
+   - BMI target: 18.5-24.9 kg/m²
+   - Central obesity: Waist <40 inches men, <35 inches women
+   - Visceral fat strongly linked to cardiovascular risk
+   - Each 5kg weight loss reduces systolic BP by 2-10 mmHg
+
+Risk Factor Modification:
+- Smoking: Complete cessation - risk reduces 50% within 1 year
+- Diabetes: A1C target <7% for cardiovascular protection
+- Stress: Chronic stress increases inflammation and BP
+- Sleep: 7-9 hours nightly; sleep apnea increases CVD risk
+
+Screening Recommendations:
+- Blood pressure: Every visit if <120/80, annually if 120-139/80-89
+- Cholesterol: Every 4-6 years if normal, more often if high risk
+- Diabetes screening: Every 3 years after age 45
+- BMI: Annually at primary care visits
+
+Medication Prevention:
+- Aspirin: 81mg daily for high-risk patients (age 40-70)
+- Statins: Primary prevention if 10-year risk >7.5%
+- Antihypertensives: If BP consistently >130/80
+- Diabetes medications: Metformin for prediabetes with high BMI
+
+Warning Signs:
+- Chest pressure or tightness
+- Shortness of breath
+- Pain in jaw, neck, back, or arms
+- Fatigue or weakness
+- Dizziness or lightheadedness
+- Swelling in legs, ankles, feet
+
+Emergency Response:
+- Call 911 immediately for suspected heart attack
+- Chew aspirin (325mg) while waiting for emergency services
+- Nitroglycerin if prescribed for known angina
+
+Evidence Base:
+- INTERHEART study: 9 modifiable risk factors account for 90% of acute MI risk
+- Framingham Heart Study: Established major CVD risk factors
+- JUPITER trial: Statins reduce events even with normal LDL but elevated CRP
+- SPRINT trial: Intensive BP control (<120) reduces cardiovascular events
+
+Risk Assessment Tools:
+- ASCVD 10-year risk calculator
+- Framingham Risk Score
+- QRISK (UK specific)
+- Reynolds Risk Score (includes family history, CRP)
+
+Complications Prevention:
+- Atrial fibrillation screening with ECG after age 65
+- Peripheral artery disease screening with ankle-brachial index
+- Heart failure monitoring with annual echocardiogram if high risk
+- Stroke prevention with anticoagulation for AFib
+
+Lifestyle Integration:
+- Combine multiple interventions for synergistic effect
+- Gradual implementation increases adherence
+- Social support improves long-term success
+- Regular follow-up essential for maintenance

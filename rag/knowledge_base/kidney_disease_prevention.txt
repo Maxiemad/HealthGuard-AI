@@ -1,0 +1,126 @@
+KIDNEY DISEASE PREVENTION GUIDELINES
+
+Primary Prevention Strategies:
+1. Blood Pressure Control
+   - Target: <130/80 mmHg for kidney protection
+   - ACE inhibitors/ARBs preferred for renal protection
+   - Home BP monitoring recommended
+   - Sodium restriction: <2,300mg daily, ideally <1,500mg
+   - Each 10mmHg systolic reduction slows CKD progression by 30%
+
+2. Diabetes Management
+   - A1C target: <7% for kidney protection
+   - SGLT2 inhibitors: 30-40% reduction in kidney disease progression
+   - GLP-1 agonists: Additional renal benefits
+   - Regular glucose monitoring: 3-4 times daily if on insulin
+   - Tight control reduces albuminuria by 30-40%
+
+3. Lifestyle Modifications
+   - Weight management: BMI 18.5-24.9 kg/m²
+   - Regular exercise: 150 minutes/week moderate activity
+   - Smoking cessation: Smoking doubles kidney disease progression risk
+   - Limit alcohol: <1 drink/day for women, <2 for men
+   - Hydration: 2-3 liters water daily (unless contraindicated)
+
+4. Dietary Approaches
+   - Protein intake: 0.8-1.0g/kg body weight for CKD prevention
+   - Reduce processed foods: High in phosphorus and sodium
+   - Potassium monitoring: Especially in advanced CKD
+   - Plant-based diets: May slow CKD progression
+   - Limit NSAIDs: Can cause acute kidney injury
+
+5. Medication Management
+   - Avoid nephrotoxic medications when possible
+   - Dose adjust for kidney function
+   - Regular medication review with healthcare provider
+   - Vaccinations: Annual flu, pneumococcal, hepatitis B
+   - Herbal supplements: Many can harm kidneys
+
+Risk Factor Identification:
+- Age >60 years
+- Diabetes mellitus
+- Hypertension
+- Family history of kidney disease
+- Obesity (BMI >30)
+- Smoking history
+- Cardiovascular disease
+- Autoimmune diseases
+- Recurrent kidney infections
+- Kidney stones
+
+Screening Recommendations:
+- GFR estimation: Annually if high risk
+- Urine albumin-to-creatinine ratio: Annually for diabetics
+- Blood pressure: Every healthcare visit
+- Blood glucose: Every 3 months if diabetic
+- Lipid panel: Annually
+
+Early Detection Markers:
+- Microalbuminuria: 30-300 mg/g creatinine
+- eGFR <60 mL/min/1.73m²
+- Rising serum creatinine
+- Electrolyte abnormalities
+- Anemia of chronic disease
+
+Medication Considerations:
+- ACE inhibitors/ARBs: First-line for proteinuria
+- SGLT2 inhibitors: Renal protection in diabetics
+- Diuretics: For fluid management
+- Phosphate binders: If hyperphosphatemia
+- Erythropoietin: For anemia management
+
+Dietary Restrictions in CKD:
+- Sodium: <2,000mg daily
+- Protein: 0.6-0.8g/kg in advanced CKD
+- Potassium: 2,000-3,000mg if elevated levels
+- Phosphorus: 800-1,000mg daily
+- Fluid: 2L daily if fluid retention
+
+Complications Prevention:
+- Cardiovascular disease: Leading cause of death in CKD
+- Bone disease: Monitor calcium, phosphorus, vitamin D
+- Anemia: Check hemoglobin every 3 months
+- Metabolic acidosis: Monitor bicarbonate levels
+- Fluid overload: Daily weight monitoring
+
+Dialysis Preparation:
+- Vascular access planning when eGFR <20
+- Education about treatment options
+- Psychological preparation
+- Nutritional counseling
+- Family involvement in decision-making
+
+Evidence Base:
+- KDIGO guidelines: International kidney disease standards
+- SPRINT trial: Intensive BP control renal benefits
+- CREDENCE trial: SGLT2 inhibitors in diabetic kidney disease
+- DAPA-CKD trial: SGLT2 benefits in non-diabetic CKD
+
+Warning Signs:
+- Swelling in legs, ankles, feet
+- Changes in urination frequency
+- Foamy or bloody urine
+- Fatigue and weakness
+- Shortness of breath
+- Confusion or difficulty concentrating
+- Nausea and vomiting
+- Muscle cramps
+
+Emergency Situations:
+- Acute kidney injury: Sudden rise in creatinine
+- Hyperkalemia: EKG changes, muscle weakness
+- Volume overload: Severe swelling, shortness of breath
+- Uremic encephalopathy: Confusion, seizures
+
+Follow-up Schedule:
+- Stage 1-2 CKD: Every 6-12 months
+- Stage 3 CKD: Every 3-6 months
+- Stage 4 CKD: Every 1-3 months
+- Stage 5 CKD: Every 1 month
+
+Quality of Life:
+- Exercise programs tailored to kidney function
+- Mental health support for chronic illness
+- Social work assistance for financial concerns
+- Palliative care integration when appropriate
+- Advanced care planning discussions
