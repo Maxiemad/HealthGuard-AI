@@ -1,2 +1,56 @@
-.DS_Store
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+*.pyo
+*.pyd
+.Python
 
+# Virtual environments
+venv/
+env/
+.env
+.venv/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.egg
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs & outputs
+training_output.txt
+*.log
+
+# Large binary / generated files
+test_health_report.pdf
+debug_kidney_leakage.py
+scratch/
+
+# RAG indexes (regenerate with build_index.py)
+rag/indexes/
+
+# Model files (large binaries - use Git LFS or store externally)
+# Uncomment below to exclude models:
+# models/*.pkl

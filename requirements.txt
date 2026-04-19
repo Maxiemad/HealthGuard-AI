@@ -7,9 +7,12 @@ plotly==5.18.0
 shap==0.44.0
 groq==0.11.0
 langgraph==0.0.26
-sentence-transformers==2.2.2
+sentence-transformers==5.1.2
 faiss-cpu==1.7.4
 reportlab==4.0.7
 xgboost==2.0.3
 networkx==3.1
 scipy==1.11.1
+matplotlib==3.9.4
+urllib3<2.0.0
+imbalanced-learn==0.11.0
